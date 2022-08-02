@@ -1,1 +1,1 @@
-# This repository contains code for the book - Hands-on-Machine-Learning-with-sklearn-keras-and-tensorflow Version2
+# This repository contains code from the book - Hands-on-Machine-Learning-with-sklearn-keras-and-tensorflow Version2
